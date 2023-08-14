@@ -69,7 +69,7 @@ export default function Intro() {
         building <span className="italic">APIs & Mobile Apps</span>. My focus
         includes{" "}
         <span className="">
-          Python (FastAPI | Django), JavaScript(React)
+          Python (FastAPI | Django), JavaScript(React/React Native)
         </span>
         .
       </motion.h1>
