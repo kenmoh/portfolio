@@ -33,7 +33,7 @@ export default function About() {
         </span>
         . I am also familiar with TypeScript. I am always looking to learn new
         technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time or contact position</span> as a
+        <span className="font-medium">full-time or contract position</span> as a
         software developer.
       </p>
 
