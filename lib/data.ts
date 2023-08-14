@@ -40,6 +40,8 @@ export const projectsData = [
       "SQLAlchemy",
       "React Native",
       "Docker",
+      "Flutterwave",
+      "Google Maps",
     ],
     imageUrl: app,
   },
