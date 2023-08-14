@@ -24,7 +24,7 @@ export default function About() {
           Meetings & Events Supervisor in an hotel
         </span>
         , I decided to pursue my passion for programming. I watched videos on
-        YouTube and read documentations and learned{" "}
+        YouTube, read documentations and learned{" "}
         <span className="font-medium">Backend/Mobile development</span>.{" "}
         <span className="italic">Solving problems with code </span> is something
         I enjoy doing. I <span className="underline">love</span> the feeling of
