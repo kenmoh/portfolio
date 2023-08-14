@@ -33,7 +33,7 @@ export default function Intro() {
           >
             {/* <Image
               src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
-              alt="Ricardo portrait"
+              alt="Ken portrait"
               width="200"
               height="200"
               quality="95"
@@ -63,12 +63,12 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Ricardo.</span> I'm a{" "}
+        <span className="font-bold">Hello, I'm Kenneth.</span> I'm a{" "}
         <span className="font-bold">Backend/Mobile developer</span> with{" "}
         <span className="font-bold">3 years</span> of experience. I enjoy
         building <span className="italic">APIs & Mobile Apps</span>. My focus
         includes{" "}
-        <span className="underline">
+        <span className="">
           Python (FastAPI | Django), JavaScript(React)
         </span>
         .
