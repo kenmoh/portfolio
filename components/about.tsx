@@ -20,8 +20,10 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After working as a{" "}
-        <span className="font-medium">Banquet Supervisor in an hotel</span>, I
-        decided to pursue my passion for programming. I watched videos on
+        <span className="font-medium">
+          Meetings & Events Supervisor in an hotel
+        </span>
+        , I decided to pursue my passion for programming. I watched videos on
         YouTube and read documentations and learned{" "}
         <span className="font-medium">Backend/Mobile development</span>.{" "}
         <span className="italic">Solving problems with code </span> is something
