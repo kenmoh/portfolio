@@ -78,7 +78,7 @@ export const skillsData = [
   "JavaScript",
   "PostgreSQL",
   "Git",
-  "Github Action",
+  "Github Actions",
   "React Native",
   "React",
   "HTML",
